@@ -4,5 +4,6 @@
 
 <h3>Output / </h3>
 
-![image](https://github.com/Miirshe/manual-game/assets/126691024/fa6e42b9-0158-41c5-bc0c-3d7ac419f63c)
+![image](https://github.com/Miirshe/manual-game/assets/126691024/f1f60ecc-b11a-4418-8d75-e273de125f27)
+
 
